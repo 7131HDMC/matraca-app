@@ -1,0 +1,1 @@
+export const defultAudio = require('./sources/Beethoven.mp3') 
